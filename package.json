@@ -1,0 +1,22 @@
+{
+  "name": "targetdesafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "soma": "node src/modules/soma.js",
+    "fibonacci": "node src/modules/fibonacci.js",
+    "inverteString": "node src/modules/inverteString.js",
+    "faturamento": "node src/modules/faturamento.js",
+    "percentual": "node src/modules/percentual.js",
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "fs": "latest",
+    "readline": "^1.3.0"
+  }
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
